@@ -1,3 +1,10 @@
+```diff
+- WARNING: After installing wiht Pip, when
+import JackkillianAutoPackager
+- is run, you get the ModuleNotFoundError.
+- For now, please download the file 'AutoPackager.py' and just run it.
+```
+  
 # JackkillianAutoPackager
 ### Make Pip packages with ease!
   
